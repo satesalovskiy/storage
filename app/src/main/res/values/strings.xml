@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Storage3</string>
+    <string name="save_to_prefs">Save to Prefs</string>
+    <string name="load_from_prefs">Load from Prefs</string>
+    <string name="save_to_internal">Save to Internal</string>
+    <string name="load_from_internal">Load from Internal</string>
+    <string name="save_to_external">Save to External</string>
+    <string name="load_from_external">Load from External</string>
+    <string name="save_to_db">Save to DB</string>
+    <string name="load_from_db">Load from DB</string>
+
+    <string name="no_value_saved">no value saved</string>
+</resources>
